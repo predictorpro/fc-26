@@ -3,7 +3,7 @@ window.CONFIG = {
 
   /* Ссылка на таблицу-приёмник из Google Apps Script (см. README.md, шаг 2).
      Пока пусто — сайт работает в демо-режиме, и ответы видны только на твоём устройстве. */
-  API_URL: "",
+  API_URL: "https://script.google.com/macros/s/AKfycbx8cnEcKXBlw4zT092WhvuL2wFq2SdiABRU0dCHG7zBYJVnI_r30S5ibGmL9Nm9C8o/exec",
 
   /* Дата и время начала с часовым поясом, например "2026-10-20T19:00:00+05:00".
      Если поставить null — вместо даты и таймера будет надпись «Дату и время сообщим отдельно». */
